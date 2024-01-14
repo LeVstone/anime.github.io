@@ -1,0 +1,191 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Quicksand&family=Zilla+Slab:wght@500&display=swap');
+
+  body{
+    background-color: rgb(5, 5, 61);
+  }
+  /* le header */
+div{
+    width: 100%;
+    height: 70px;
+    background-color: yellow;
+}
+h1{
+    float: right;
+    margin-right: 20px;
+    font-family: Quicksand;
+    font-size: 1.3rem;
+    color: rgb(5, 5, 61);
+}
+i{
+    float: left;
+    margin: 30px 0 0 10px;
+}
+.barre{
+    margin: 25px 0 0 20px;
+    float: left;
+    height: 20px;
+    width: 20%;
+    background-color:  yellow;
+    border: 2px solid black;
+    border-radius: 30px;
+}
+.BIG-TITLE{
+    font-size: 5rem;
+    color: white;
+    font-family: Quicksand;
+    margin: 0px 400px 0 0;
+}
+.soulign{
+    height: 0px;
+    width: 40%;
+    border: 2px solid yellow;
+    margin: 100px 0 0 410px;
+}
+img{
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 20px;
+}
+.liste{
+    height: 50px;
+    width: 70%;
+    margin-left: 15%;
+}
+/* solo leveling article */
+.article{
+    width: 70%;
+    height: 1500px;
+    margin-left: 15%;
+    border: 2px solid yellow;
+    background-color:  rgb(5, 5, 61);
+    margin-top: 10px;
+}
+h2{
+    color: yellow;
+    font-family: Quicksand;
+    margin-left: 20px;
+    text-decoration: underline;
+}
+.Solo{
+    width: 300px;
+    float: left;
+    margin-left: 15px;
+    border-radius: 13px;
+}
+h3{
+    color: yellow;
+    float: right;
+    font-family: Quicksand;
+}
+.right{
+    float: right;
+    width: 55%;
+    height: 500px;
+    margin-right: 15px;
+    background-color: rgb(5, 5, 61);
+}
+.Crunchy{
+    margin: 10px 0 0 150px;
+}
+.synopsis{
+    height: 300px;
+    width: 90%;
+    margin-left: 5%;
+    background-color: rgb(5, 5, 61);
+}
+.regardez{
+    margin-right: 300px;
+}
+.Sung{
+    height: 500px;
+    width: 500px;
+    border-radius: 500px;
+}
+.Jin-Woo{
+    font-size: 3rem;
+    font-family: Quicksand;
+    color: yellow;
+    margin: 200px 200px 0 0;
+}
+/* Le footer */
+.foot{
+    height: 60px;
+    margin-top: 200px;
+}
+h4{
+
+   float: right;
+   font-family: Quicksand;
+   margin-right: 20px;
+}
+/* La page 2 */
+.Itadori{
+    width: 50%;
+    border-radius: 20px;
+    margin-left: 10px;
+}
+.Special{
+    font-size: 5rem;
+    float: right;margin-right: 50px;
+    font-family: Zilla Slab;
+    color: white;
+}
+.left{
+    float: left;
+    width: 50%;
+    height: 320px;
+    margin-left: 15px;
+    background-color: rgb(5, 5, 61);
+}
+.loso{
+    width: 45%;
+    float: right;
+    margin: 30px 15px 0 0;
+    border-radius: 15px;
+}
+/* la page 3 */
+.kk{
+    font-size: 3rem;
+    font-family: Quicksand;
+    color: yellow;
+    margin: 200px 100px 0 0;
+}
+/* Page d'acceuil */
+.libelle{
+    width: 600px;
+    height: 300px;
+    border: 2px solid yellow;
+    float: right;
+    background-color: rgb(5, 5, 61);
+    border-radius: 15px;
+    margin-top: 25px;
+    padding: 05px;
+}
+span{
+    color: white;
+}
+.libell{
+    width: 600px;
+    height: 260px;
+    border: 2px solid yellow;
+    float: right;
+    background-color: rgb(5, 5, 61);
+    border-radius: 15px;
+    margin-top: 25px;
+    padding: 05px;
+}
+.formulaire{
+    height: 400px;
+    width: 45%;
+    background-color: rgb(5, 5, 61);
+    margin-left: 15%;
+}
+label{
+    color: yellow;
+    font-family: Quicksand;
+
+}
+form{
+    color:rgb(5, 5, 61);
+}
